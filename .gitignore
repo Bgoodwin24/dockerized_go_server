@@ -1,0 +1,3 @@
+/dockerized_go_server
+.env
+*.env
